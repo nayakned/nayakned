@@ -1,6 +1,7 @@
 Hi there 👋
 
 I am a Research and Development Engineer at Robert Bosch GmbH in Germany.
+
 Here is my [Linkedin](https://de.linkedin.com/in/nareshgnayak) and [Google Scholar](https://scholar.google.com/citations?user=8OEVYXUAAAAJ&hl=en&oi=ao) profile.
 For any of the topics related to my research, you can reach me via Linkedin.
 
