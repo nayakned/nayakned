@@ -1,6 +1,11 @@
 Hi there 👋
 
-I am a Research and Development Engineer at Robert Bosch GmbH in Germany.
+I am a Professor of computer Sciences at the University of Applied Sciences, Furtwangen in Germany. Parallelly, I am also involved with Robert Bosch GmbH as a Research and Development Engineer.
+
+Currently I am contributing to the following projects:
+
+* [Open1722](https://github.com/COVESA/Open1722)
+* [Eclipse Kuksa](https://github.com/eclipse-kuksa) 
 
 Here is my [Linkedin](https://de.linkedin.com/in/nareshgnayak) and [Google Scholar](https://scholar.google.com/citations?user=8OEVYXUAAAAJ&hl=en&oi=ao) profile.
 For any of the topics related to my research, you can reach me via Linkedin.
