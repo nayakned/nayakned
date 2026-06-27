@@ -1,7 +1,6 @@
 Hi there 👋
 
-I am a Professor of computer Sciences at the University of Applied Sciences, Furtwangen in Germany. Parallelly, I am also involved with Robert Bosch GmbH as a Research and Development Engineer.
-
+I am a Professor of Computer Sciences at the University of Applied Sciences in Furtwangen, Germany. Prior to returning to academia, I held various roles at Robert Bosch GmbH, primarily in the automotive sector, ranging from research to pre-development.
 Currently I am contributing to the following projects:
 
 * [Open1722](https://github.com/COVESA/Open1722)
